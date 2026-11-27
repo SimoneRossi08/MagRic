@@ -1,0 +1,5 @@
+Articoli(_ID_, Nome, Prezzo, Tipologia, Unità, Reparto)
+
+Fornitori(_CodiceFiscale_, RagioneSociale, Indirizzo, Specializzazione, NumeroTelefono, Email)
+
+Clienti(_CodiceFiscale_, Nome, Cognome, Email, NumeroTelefono)
